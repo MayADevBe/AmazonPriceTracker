@@ -6,7 +6,7 @@
  * load and save url/price in json file
  * recive e-mail, when price equals/under desired price
 
- *Change data in config file! Gmail-Account which allows less secure apps needed*
+ *Change data in config file! Gmail-Account which allows less secure apps needed, to send the mails*
 
  ## Uses
  * requests
