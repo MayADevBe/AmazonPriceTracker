@@ -1,2 +1,14 @@
 # AmazonPriceTracker
- Track amazon prices by url
+ Track prices from Amazon by url
+
+ * track price by giving amazon url + pricelimit for product
+ * add and remove urls
+ * load and save url/price in json file
+ * recive e-mail, when price equals/under desired price
+
+ *Change data in config file! Gmail-Account which allows less secure apps needed*
+
+ ## Uses
+ * requests
+ * BeautifulSoup4
+ * lxml
