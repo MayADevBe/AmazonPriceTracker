@@ -1,5 +1,5 @@
 # AmazonPriceTracker
- Track prices from Amazon by url
+ Checks if price is under desired price
 
  * track price by giving amazon url + pricelimit for product
  * add and remove urls
